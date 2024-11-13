@@ -15,19 +15,19 @@
 
 ###
 
-<h1 align="center">Olá, Tudo Bem? 👋</h1>
+<h1 align="center">Hello, How's it Going? 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre Mim:</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 ###
 
-<p align="left">Eu sou Matheus Debortoli<br><br>- 📚 Graduando em Sistemas de Informação 6° Período<br>-  📍 Ifes Campus Colatina</p>
+<p align="left">I'm Matheus Debortoli<br><br>- 📚 Information Systems Undergraduate, 6th Semester<br>- 📍 Ifes Campus Colatina</p>
 
 ###
 
-<h3 align="left">🛠 Experiência com Linguagens e Ferramentas:</h3>
+<h3 align="left">🛠 Experience with Languages and Tools:</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">🔥   Meus Status:</h3>
+<h3 align="left">🔥   My Stats:</h3>
 
 ###
 
@@ -78,7 +78,5 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MathDebortoli.MathDebortoli&left_color=brown&right_color=violet&left_text=Visitantes"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MathDebortoli.MathDebortoli&left_color=brown&right_color=violet&left_text=Visitors"  />
 </div>
-
-###
