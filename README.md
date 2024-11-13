@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://img.freepik.com/fotos-gratis/astronomia-do-ceu-noturno-galactico-e-ciencia-combinaram-ia-generativa_188544-9656.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724544000&semt=ais_hybrid"  />
+  <img height="250" src="https://img.freepik.com/fotos-gratis/astronomia-do-ceu-noturno-galactico-e-ciencia-combinaram-ia-generativa_188544-9656.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1724544000&semt=ais_hybrid"  />
 </div>
 
 ###
